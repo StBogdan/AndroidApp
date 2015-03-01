@@ -1,6 +1,14 @@
 <resources>
-    <string name="app_name">Reteta</string>
+    <string name="app_name">CookBook</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+        <string-array name="Recipey">
+            <item>Vegetable Soup</item>
+            <item>Italian Meatballs</item>
+            <item>Basic Chocolate Mousse</item>
+            <item>Vegetarian Chili</item>
+            <item>Sear-Roasted Lamb Loin Chops</item>
+        </string-array>
+    <string name="recepy"></string>
 </resources>
